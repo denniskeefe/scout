@@ -1,9 +1,3 @@
-A professional **README** is essential for "Automation Oversight"—it serves as the documentation that ensures your tools are reproducible, ethical, and easy to deploy.
-
-Below is a complete `README.md` file tailored for your **OSINT Scout 3.0** script. You can save this directly in the same folder as your script on your Mac.
-
----
-
 #  OSINT Scout 3.0: High-Velocity Footprint Analysis
 
 **OSINT Scout** is a lightweight, modular Python automation tool designed for 2026-era digital footprinting. It performs rapid, non-invasive "username stitching" across 30+ platforms including mainstream social media, decentralized Web3 networks, gaming communities, and professional hubs.
